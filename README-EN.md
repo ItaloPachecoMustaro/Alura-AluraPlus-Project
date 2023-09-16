@@ -38,5 +38,5 @@ This is a web project that I created as part of the "HTML and CSS for Web Projec
 
 ## 💻Demo
 
-- [Vercel Project](https://alura-basic-portfolio.vercel.app/)
+- [Vercel Project](https://alura-alura-plus-project.vercel.app/)
 - [Figma](https://www.figma.com/file/WNxuLj43ZGfkOzYFC3Ni0g/Alura-Plus---Layout?type=design&node-id=0%3A1&mode=design&t=NN9bmVCLcZPbfLG5-1)
