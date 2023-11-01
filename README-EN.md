@@ -8,7 +8,7 @@
 
 ## 📚Description
 
-This is a web project that I created as part of the "HTML and CSS for web projects from scratch" course by Alura. During the course, I learned the essential fundamentals of web development, starting from scratch.
+As part of Alura's 'HTML and CSS: Practicing HTML/CSS' course, I developed AluraPlus, a teaching platform that offers a variety of learning options and unique plans. During the course, I acquired skills to create a website with HTML and CSS, as well as to identify elements and styles based on Figma designs.
 
 <br>
 
@@ -18,12 +18,9 @@ This is a web project that I created as part of the "HTML and CSS for web projec
 
 <br>
 
-## 👨‍🏫Course Tutors
+## 👨‍🏫Course Tutor
 
 - [Mônica Mazzochi Hillman](https://github.com/MonicaHillman)
-- [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-458925178)
-- [Rafaella Ballerini](https://github.com/rafaballerini)
-- [Vanessa Me Tonini](https://github.com/vanessametonini)
 
 <br>
 
