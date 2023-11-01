@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Welcome to my Web Project: HTML and CSS from Scratch</h1>
+<h1>Welcome to my Web Project: HTML and CSS: practicing HTML/CSS</h1>
 </div>
 
 <hr>
